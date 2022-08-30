@@ -11,6 +11,11 @@ Visit - [AluraNewsletter](https://www.google.com)
 
 :heavy_check_mark: Conhecendo o Tailwind CSS
 
+* Fomos apresentados ao Tailwind CSS e descobrimos quais são os seus propósitos.
+Vimos algumas maneiras de incorporar o Tailwind CSS em um projeto.
+* Conversamos sobre as principais diferenças entre os frameworks Tailwind e Bootstrap.
+* Aprendemos sobre as Utility Classes e aplicamos na prática em um primeiro projeto.
+
 :heavy_check_mark: Alura Newsletter
 
 :heavy_check_mark: Avançando no projeto
