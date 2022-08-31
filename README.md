@@ -30,7 +30,17 @@ Visit - [AluraNewsletter](https://www.google.com)
 
 :heavy_check_mark: Mais funcionalidades
 
+* Bordas e sombras: Vimos como estilizar a caixa dos elementos com utilitários que controlam o border-radius.
+* Bordas e sombras: Uso de classes utilitárias que criam sombreamentos nas caixas dos elementos.
+* Pseudo-classes e ring: Vimos como estilizar elementos em diferentes estados com o hover e o focus utilizando os utilitários do Tailwind.
+* Pseudo-classes e ring: Conversamos sobre a classe ring, que cria anéis de contorno com box-shadow.
+* Responsividade: Aprendemos como adaptar o layout para diferentes tamanhos de tela utilizando Breakpoint prefix.
+
 :heavy_check_mark: Animações com Tailwind CSS
+
+* Parent state: Vimos como utilizar o utilitário group para aplicar estilo no elemento filho com base na modificação do estado do elemento pai.
+* Animation: Aprendemos como aplicar a animação ping do Tailwind e também como customizar e criar nossas próprias animações.
+* Deploy do projeto: Criamos um repositório no Github e subimos o projeto no Vercel para compartilhar com outras pessoas nas redes sociais.
 
 
 ## ✅ Linguagens utilizadas 👇
