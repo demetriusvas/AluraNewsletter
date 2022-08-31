@@ -24,6 +24,10 @@ Visit - [AluraNewsletter](https://www.google.com)
 
 :heavy_check_mark: Avançando no projeto
 
+* Flexbox e Grid: Aprendemos como dispor os elementos com utilitários que modificam o display.
+* Tipografia: Vimos como alinhar, modificar o tamanho, cor e peso dos textos por meio dos utilitários.
+* Espaçamento: Alteramos de formas variadas a width, margin e padding com classes utilitárias no Tailwind.
+
 :heavy_check_mark: Mais funcionalidades
 
 :heavy_check_mark: Animações com Tailwind CSS
